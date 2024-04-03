@@ -1,0 +1,1 @@
+git@github.com:Cryoph0enix/posmotri_v_okno.git
