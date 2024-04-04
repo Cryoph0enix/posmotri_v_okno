@@ -189,7 +189,8 @@ ol {
 }
 
 .button:active,
-.content__list-item:active {
+.content__list-item:active,
+.content__card-link_current{
     background-color: #545050;
 }
 
